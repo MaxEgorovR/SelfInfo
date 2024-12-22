@@ -1,0 +1,16 @@
+C:\Users\maxon\source\repos\SelfInfo\bin\Debug\net8.0-windows\SelfInfo.exe
+C:\Users\maxon\source\repos\SelfInfo\bin\Debug\net8.0-windows\SelfInfo.deps.json
+C:\Users\maxon\source\repos\SelfInfo\bin\Debug\net8.0-windows\SelfInfo.runtimeconfig.json
+C:\Users\maxon\source\repos\SelfInfo\bin\Debug\net8.0-windows\SelfInfo.dll
+C:\Users\maxon\source\repos\SelfInfo\bin\Debug\net8.0-windows\SelfInfo.pdb
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.Form1.resources
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.csproj.GenerateResource.cache
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.AssemblyInfo.cs
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.csproj.CoreCompileInputs.cache
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.dll
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\refint\SelfInfo.dll
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.pdb
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\SelfInfo.genruntimeconfig.cache
+C:\Users\maxon\source\repos\SelfInfo\obj\Debug\net8.0-windows\ref\SelfInfo.dll
